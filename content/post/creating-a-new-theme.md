@@ -1,17 +1,24 @@
 ---
-author: "Michael Henderson"
-date: 2014-09-28
-title: Creating a New Theme
+author: "Prabhat Ranjan"
+date: 2014-07-03
+title: "Few recommended Animes"
 image: 'artist.jpg'
 ---
 
-## Introduction
+## 1: AVATAR: THE LAST AIR BENDER
 
-This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
+This has to be the first in my list. Back in the my childhood there were many cartoons available to watch (millenials you know) but very few series had done justice with us as the AVATAR did. It took its audience seriously specially the slightly older audience and taught is the meaning of friendship and love in the most simple way possible. It is as much entertaining as it is inspiring, a must watch from my suggestion.
 
-We'll start with creating a new site with a very basic template. Then we'll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.
+{{<youtube VZ2ue2zA2ck>}}
+<br>
+{{< figure src="https://cdn.pixabay.com/photo/2014/11/04/22/51/vespa-517227_960_720.jpg" alt="two men talking to eack other" title="Scooter" >}}
 
-In this tutorial, commands that you enter will start with the "$" prompt. The output will follow. Lines that start with "#" are comments that I've added to explain a point. When I show updates to a file, the ":wq" on the last line means to save the file.
+{{<instagram BzDnqt2DBTG>}}
+
+
+{{< soundcloud >}}
+
+We'll start with crea
 
 Here's an example:
 

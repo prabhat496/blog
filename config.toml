@@ -1,7 +1,7 @@
 baseurl = "https://prblogs.netlify.com/"  # Include trailing slash
 title = "Prabhat"
 theme = "hugo-swift-theme"
-author = "Steve Francia"
+author = "Prabhat Ranjan"
 copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
 canonifyurls = true
 paginate = 4

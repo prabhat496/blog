@@ -1,18 +1,10 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "About This"
+date = "2014-06-03"
 image = 'read.jpg'
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+This is a **dumping ground** for me . It is written in hugo. And I will write my honest feelings here
 
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Learn more about my projects on [Github](https://github.com/prabhat496).
 
